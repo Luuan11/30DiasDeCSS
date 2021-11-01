@@ -17,12 +17,12 @@ no meu caso utilizei o repositório da [Milena] </br>
 
 #### Desafios
 
-* Dia 01 - [Dia 01 - Efeito lightning text](#id06)
+* Dia 01 - [Dia 01 - Efeito lightning text](#id01)
+* Dia 02 - [Dia 02 - ](#id02)
+* Dia 03 - [Dia 03 - ](#id03) 
 
 
 
-<!-- ### ✨ Tecnologias Usadas 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> -->
+
 
 
