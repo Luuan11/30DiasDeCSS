@@ -8,7 +8,7 @@
 ### 📰 Referências
 
 Diversas pessoas criaram desafios como esses em diversas linguagens. Você pode também pesquisa por outros repositórios no próprio github.
-no meu caso utilizei o repositório da [Milena] </br>
+no meu caso utilizei o repositório da [@MilenaCarecho](https://github.com/MilenaCarecho/30diasDeCSS) tanto que foi a pessoa que me motivou a fazer o desafio. </br>
 
 #### Canais de Youtube como Referencias 
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
@@ -17,9 +17,9 @@ no meu caso utilizei o repositório da [Milena] </br>
 
 #### Desafios
 
-* Dia 01 - [Dia 01 - Efeito lightning text](#id01)
-* Dia 02 - [Dia 02 - Efeito Carregando](#id02)
-* Dia 03 - [Dia 03 - Fantasma](#id03) 
+* Dia 01 - [Efeito lightning text](#id01)
+* Dia 02 - [Efeito Carregando](#id02)
+* Dia 03 - [Fantasma](#id03) 
  
 ## Desafio 01 - Efeito Lightning text <a name="id01"></a>
 ![D01](https://user-images.githubusercontent.com/79935555/139748417-85b8c321-fed6-4d95-a190-e8dedae8d738.png)
