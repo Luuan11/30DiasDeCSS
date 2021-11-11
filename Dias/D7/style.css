@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6faaf7;
+}
+
+h1{
+    color: #080000;
+    font-size: 100px;
+    font-family: Arial;
+}
+
+span:before{
+    content: "";
+    animation: word-swith 3s infinite;
+}
+
+@keyframes word-swith{
+    0% {content: '🎮'}
+
+    50%{content: '🍔'}
+
+    100%{content: '📚'}
+}
