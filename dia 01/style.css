@@ -1,0 +1,97 @@
+*{
+    padding:0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #080000;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.span-container{
+    width: 800px;
+    height: 800px;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elementos span{
+    letter-spacing: 3px;
+    color: var(--color-green-dark);
+    --color-purple-dark: #7234AD;
+    --color-purple-light: #A572D5;
+    animation: light 2s steps(5, jump-start) infinite;
+  
+}
+
+#um{
+    animation-delay: 0s;
+}
+
+#dois{
+    animation-delay: .2s;
+}
+
+#tres{
+    animation-delay: .4s;
+}
+
+#quatro{
+    animation-delay: .6s;
+}
+
+#cinco{
+    animation-delay: .8s;
+}
+
+#seis{
+    animation-delay: 1s;
+}
+
+#sete{
+    animation-delay: 1.2s;
+}
+
+#oito{
+    animation-delay: 1.4s;
+}
+
+#nove{
+    animation-delay: 1.6s;
+}
+
+#dez{
+    animation-delay: 1.8s;
+}
+
+@keyframes light{
+    0%{
+        color: var(--color-purple-dark);
+        text-shadow: none;
+    }
+    90% {
+        color: var(--color-purple-dark);
+        text-shadow: none;
+    }
+    100%{
+        color: var(--color-purple-light);
+        text-shadow: 0 0 5px yellow;
+    }
+}
