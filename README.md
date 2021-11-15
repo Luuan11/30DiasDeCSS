@@ -15,6 +15,10 @@ no meu caso utilizei o repositório da [@MilenaCarecho](https://github.com/Milen
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
+### 📰 Dica
+
+Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúsculas, pois o Github pode desorganizar seus arquivos (aconteceu comigo KK)
+
 #### Desafios
 
 * Dia 01 - [Efeito lightning text](#id01)
