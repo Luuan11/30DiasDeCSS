@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background: #2b2828;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container div {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container div label {
+    cursor: pointer;
+}
+
+.container div label #checkbox {
+    display: none;
+}
+
+.container div label span {
+    position: relative;
+    display: inline-block;
+    background: #424242;
+    padding: 15px 30px;
+    color: #646464;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+    border-radius: 30px;
+    font-size: 22px;
+    transition: .5s;
+    user-select: none;
+    overflow: hidden;
+}
+
+.container div label span::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background: rgba(255, 255, 255, .1);
+}
+
+
+.container div:nth-child(1) label #checkbox:checked ~ span{
+    background: #ec7a2d;
+    color: #fff;
+    box-shadow: 0 2px 20px #ec7a2d;
+}
+
+.container div:nth-child(2) label #checkbox:checked ~ span{
+    background: #8820e9;
+    color: #fff;
+    box-shadow: 0 2px 20px #8820e9;
+}
+
+.container div:last-child label #checkbox:checked ~ span{
+    background: #F7DD00;
+    color: #fff;
+    box-shadow: 0 2px 20px #F7DD00;
+}
