@@ -17,7 +17,7 @@ no meu caso utilizei o repositório da [@MilenaCarecho](https://github.com/Milen
 
 ### 📰 Dica
 
-Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúsculas, pois o Github pode desorganizar seus arquivos (aconteceu comigo KK)
+Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúsculas, pois o Github pode desorganizar seus arquivos, que foi o que houve comigo.
 
 #### Desafios
 
