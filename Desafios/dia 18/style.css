@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #1e2020;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    background: #ebf5fc;
+    -webkit-box-shadow: -2px -2px 5px white, 3px 3px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: -2px -2px 5px white, 3px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+ul li{
+    position: relative;
+    list-style: none;
+    text-align: center;
+    margin: 15px;
+}
+
+ul li label{
+    position: relative;
+}
+
+ul li label .icon-box{
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    background: #ebf5fc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li label .icon-box .fa{
+    font-size: 30px;
+    color: #8e59f1;
+    -webkit-transition: 0.5s;
+            transition: 0.5s;
+}
+
+ul li label input[type="checkbox"] {
+    position: absolute;
+    cursor: pointer;
+    opacity: 0;
+}
+
+ul li label input[type="checkbox"]:checked ~ .icon-box {
+    -webkit-box-shadow: inset -2px -2px 5px white, inset 3px 3px 5px rgba(0, 0, 0, 0.1);
+            box-shadow: inset -2px -2px 5px white, inset 3px 3px 5px rgba(0, 0, 0, 0.1);
+}
+  
+ul li label input[type="checkbox"]:checked ~ .icon-box .fa {
+    color: #8e59f1;
+}
