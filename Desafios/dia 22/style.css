@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background:linear-gradient(45deg, rgba(2, 0, 36, 0.644) 0%, rgba(9, 61, 121, 0.582) 0%, rgba(0, 213, 255, 0.582) 100%),
+    url(assets/image.jpg) center center fixed;
+    
+    background-size: cover;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
