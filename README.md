@@ -24,6 +24,13 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 * Dia 01 - [Efeito lightning text](#id01)
 * Dia 02 - [Efeito Carregando](#id02)
 * Dia 03 - [Fantasma](#id03) 
+* Dia 04 - 
+* Dia 05 -
+* Dia 06 -
+* Dia 07 -
+* Dia 08 -
+* Dia 09 -
+* Dia 10 -      
  
 ## Desafio 01 - Efeito Lightning text <a name="id01"></a>
 ![D01](https://user-images.githubusercontent.com/79935555/139748417-85b8c321-fed6-4d95-a190-e8dedae8d738.png)
