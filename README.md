@@ -30,8 +30,29 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 * Dia 07 - [Alterando Texto](#id07)
 * Dia 08 - [Água](#id08)
 * Dia 09 - [Botão com Efeito](#id09)
-* Dia 10 - [Fundo Animado](#id10)     
- 
+* Dia 10 - [Fundo Animado](#id10) 
+* Dia 11 - [Texto com Efeito](#id11)
+* Dia 12 - [Texto com Efeito (Sem animação)](#id12)
+* Dia 13 - [Checkbox com efeito](#id13)
+* Dia 14 - [Tab Menu](#id14)
+* Dia 15 - [Card Box](#id15)
+* Dia 16 - [Efeito Pulse](#id16)
+* Dia 17 - [Botões animados](#id17)
+* Dia 18 - [ARRUMANDO...](#id18)
+* Dia 19 - [Barra de Progresso](#id19)
+* Dia 20 - [Fundo animado](#id20)
+* Dia 21 - [](#id21)
+* Dia 22 - [](#id22)
+* Dia 23 - [](#id23)
+* Dia 24 - [](#id24)
+* Dia 25 - [](#id25)
+* Dia 26 - [](#id26)
+* Dia 27 - [](#id27)
+* Dia 28 - [](#id28)
+* Dia 29 - [](#id29)
+* Dia 30 - [](#id30)
+
+
 ## Desafio 01 - Efeito Lightning text <a name="id01"></a>
 ![D01](https://user-images.githubusercontent.com/79935555/145287324-ab772b67-b644-4646-a1be-45f129083a96.gif)
 
@@ -61,6 +82,43 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 
 ## Desafio 10 - Fundo Animado <a name="id10"></a>
 ![D10](https://user-images.githubusercontent.com/79935555/145293818-fdce9990-27ce-49c4-8773-d12d556129f0.gif)
+
+## Desafio 11 - Texto com Efeito <a name="id11"></a>
+![D11](https://user-images.githubusercontent.com/79935555/146645797-325878ce-e8a6-4c60-9635-49179f683715.gif)
+
+## Desafio 12 - Texto com Efeito (Sem animação) <a name="id12"></a>
+![D12](https://user-images.githubusercontent.com/79935555/146646155-d1619cd2-0676-4088-a213-7523f1d45555.png)
+
+## Desafio 13 - Checkbox com efeito <a name="id13"></a>
+![D13](https://user-images.githubusercontent.com/79935555/146646433-85b31b16-3acc-4375-a912-e88104b71499.gif)
+
+## Desafio 14 - Tab Menu <a name="id14"></a>
+![D14](https://user-images.githubusercontent.com/79935555/146646609-4a9e8261-e070-4f18-b502-e3ff17631ea3.gif)
+
+## Desafio 15 - Card Box <a name="id15"></a>
+![D15](https://user-images.githubusercontent.com/79935555/146646762-75da922f-0730-43e2-92dc-5bdeabe0550c.gif)
+
+## Desafio 16 - Efeito pulse <a name="id16"></a>
+![D16](https://user-images.githubusercontent.com/79935555/146646961-06f8f900-595b-42b9-95a0-4f954b36c1f9.gif)
+
+## Desafio 17 - Botões animados <a name="id17"></a>
+![D17](https://user-images.githubusercontent.com/79935555/146647137-46ca1f8f-f38a-4dc5-8fda-3272a567600c.gif)
+
+## Desafio 18 - Menu Card <a name="id18"></a>
+
+## Desafio 19 - Barra de Progresso <a name="id19"></a>
+![D19](https://user-images.githubusercontent.com/79935555/146647250-68da5387-7816-4341-a5f3-9058be49383d.gif)
+
+## Desafio 20 - Fundo animado <a name="id20"></a>
+![D20](https://user-images.githubusercontent.com/79935555/146647479-34a16126-6763-44cb-8286-057893e56c2c.gif)
+
+
+
+
+
+
+
+
 
 
 
