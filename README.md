@@ -46,11 +46,11 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 * Dia 23 - [Shadow Gradient](#id23)
 * Dia 24 - [Botão Off/On](#id24)
 * Dia 25 - [Magikarp](#id25)
-* Dia 26 - [](#id26)
-* Dia 27 - [](#id27)
-* Dia 28 - [](#id28)
-* Dia 29 - [](#id29)
-* Dia 30 - [](#id30)
+* Dia 26 - [Card de produto](#id26)
+* Dia 27 - [Lápis](#id27)
+* Dia 28 - [Ondas](#id28)
+* Dia 29 - [Escudo Capitão América](#id29)
+* Dia 30 - [Coração](#id30)
 
 
 ## Desafio 01 - Efeito Lightning text <a name="id01"></a>
@@ -127,10 +127,20 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 ## Desafio 25 - Magikarp <a name="id25"></a>
 ![D25](https://user-images.githubusercontent.com/79935555/147599656-4a5ba1d4-a78f-4fba-9073-175e29774fba.png)
 
+## Desafio 26 - Card de produto <a name="id26"></a>
+![D26](https://user-images.githubusercontent.com/79935555/147605695-52f1c590-0df2-4356-911c-3fd79de15e50.gif)
 
+## Desafio 27 - Lápis <a name="id27"></a> 
+![D27](https://user-images.githubusercontent.com/79935555/147609579-cc0c209b-068a-467d-b47f-f35b02a906ad.gif)
 
+## Desafio 28 - Ondas <a name="id28"></a>
+![D28](https://user-images.githubusercontent.com/79935555/147609431-c4859565-1227-41b7-aa72-63d99a0708ca.gif)
 
+## Desafio 29 - Escudo Capitão América  <a name="id29"></a>
+![D29](https://user-images.githubusercontent.com/79935555/147609311-ee2f9738-2a26-4ae5-b1a4-001c8c0799b7.png)
 
+## Desafio 30 - Coração 30 Dias <a name="id30"></a>
+![D30](https://user-images.githubusercontent.com/79935555/147608947-18e64843-64f8-451a-8246-615d7e1e0fa6.gif)
 
 
 
