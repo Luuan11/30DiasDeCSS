@@ -41,11 +41,11 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 * Dia 18 - [ARRUMANDO...](#id18)
 * Dia 19 - [Barra de Progresso](#id19)
 * Dia 20 - [Fundo animado](#id20)
-* Dia 21 - [](#id21)
-* Dia 22 - [](#id22)
-* Dia 23 - [](#id23)
-* Dia 24 - [](#id24)
-* Dia 25 - [](#id25)
+* Dia 21 - [Efeito Preenchimento](#id21)
+* Dia 22 - [Gradiente em imagem](#id22)
+* Dia 23 - [Shadow Gradient](#id23)
+* Dia 24 - [Botão Off/On](#id24)
+* Dia 25 - [Magikarp](#id25)
 * Dia 26 - [](#id26)
 * Dia 27 - [](#id27)
 * Dia 28 - [](#id28)
@@ -112,9 +112,20 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 ## Desafio 20 - Fundo animado <a name="id20"></a>
 ![D20](https://user-images.githubusercontent.com/79935555/146647479-34a16126-6763-44cb-8286-057893e56c2c.gif)
 
+## Desafio 21 - Efeito Preenchimento <a name="id21"></a>
+![D21](https://user-images.githubusercontent.com/79935555/147598151-1c838931-3461-4680-b4c8-d27164f4a7e0.gif)
 
+## Desafio 22 - Gradiente em imagem <a name="id22"></a>
+![D22](https://user-images.githubusercontent.com/79935555/147599170-55e6c59e-3656-4aa3-ac59-95142c80d980.png)
 
+## Desafio 23 - Shadow Gradient <a name="id23"></a>
+![D23](https://user-images.githubusercontent.com/79935555/147601330-ade05d9e-db7d-4349-a695-514d14bae45c.gif)
 
+## Desafio 24 - Botão On/Off <a name="id24"></a>
+![D24](https://user-images.githubusercontent.com/79935555/147600239-a2f25f06-16a8-4988-bdfa-db638b7bf7ae.gif)
+
+## Desafio 25 - Magikarp <a name="id25"></a>
+![D25](https://user-images.githubusercontent.com/79935555/147599656-4a5ba1d4-a78f-4fba-9073-175e29774fba.png)
 
 
 
