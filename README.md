@@ -38,7 +38,7 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 * Dia 15 - [Card Box](#id15)
 * Dia 16 - [Efeito Pulse](#id16)
 * Dia 17 - [Botões animados](#id17)
-* Dia 18 - [ARRUMANDO...](#id18)
+* Dia 18 - [Menu Card](#id18)
 * Dia 19 - [Barra de Progresso](#id19)
 * Dia 20 - [Fundo animado](#id20)
 * Dia 21 - [Efeito Preenchimento](#id21)
@@ -105,6 +105,7 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 ![D17](https://user-images.githubusercontent.com/79935555/146647137-46ca1f8f-f38a-4dc5-8fda-3272a567600c.gif)
 
 ## Desafio 18 - Menu Card <a name="id18"></a>
+![D18](https://user-images.githubusercontent.com/79935555/147694592-20b1d88e-928b-4ed5-9ab8-31ab5cb6c555.gif)
 
 ## Desafio 19 - Barra de Progresso <a name="id19"></a>
 ![D19](https://user-images.githubusercontent.com/79935555/146647250-68da5387-7816-4341-a5f3-9058be49383d.gif)
@@ -142,7 +143,12 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 ## Desafio 30 - Coração 30 Dias <a name="id30"></a>
 ![D30](https://user-images.githubusercontent.com/79935555/147608947-18e64843-64f8-451a-8246-615d7e1e0fa6.gif)
 
+###  Tecnologias Usadas 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+---
+feito com ❤️ by [Luan Fernando](https://www.linkedin.com/in/luan-fernando/).
 
 
 
