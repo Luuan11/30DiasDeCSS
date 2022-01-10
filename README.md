@@ -205,6 +205,10 @@ Caso vá dá inicio ao desafio também, cuidado com arquivos com letras maiúscu
 
 [Meu codigo](https://github.com/Luuan11/30DiasDeCSS/tree/main/Desafios/dia%2030)
 
+### Finalização
+
+Obrigado pela atenção e tenha um bom desafio 🎉
+
 ###  Tecnologias Usadas 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
